@@ -5,4 +5,8 @@
 
 ## 딥러닝 예측 모델 성능 올리기 (230109~230113)
 
-주제 : https://www.kaggle.com/datasets/andrewmvd/face-mask-detection?datasetId=667889&sortBy=voteCount
+주제 : [Face Mask Detection](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection?datasetId=667889&sortBy=voteCount
+)
+
+![image](https://user-images.githubusercontent.com/106129152/211992348-8ff4bc01-3e51-48a3-81a4-2d9ee6d45a78.png)
+
