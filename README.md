@@ -7,6 +7,8 @@
 
 주제 : [Face Mask Detection](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection?datasetId=667889&sortBy=voteCount
 )
+  
+프로젝트 깃허브 링크 : https://github.com/Dawnnote/Face_Mask_Detection
 
 ![image](https://user-images.githubusercontent.com/106129152/211992348-8ff4bc01-3e51-48a3-81a4-2d9ee6d45a78.png)
 
